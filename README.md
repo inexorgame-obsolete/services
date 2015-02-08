@@ -8,8 +8,10 @@ The bugtracker for all issues regarding our services. We do offer the following 
  * [notifico](http://notifico.inexor.org)
  * [mail](https://mail.inexor.org)
  * [mysql](https://mysql.inexor.org)
+ * [kanboard](https://waffle.io/inexor-game/code)
  * ~~[munin](https://monitor.inexor.org)~~
  * [ftp.inexor.org](ftp://inexor.org:21)
 
-Any bug addressing the following services may be reported here.
-Bugs _(especially security-relative)_ not addressing these services should be reported privately.
+Please be aware that we do not maintain the kanboard. Address kanboard issues to https://github.com/waffleio/waffle.io
+
+Do not use this repo to submit security-relative issues! Contact us via [mail](mailto:info@inexor.org) if needed.
